@@ -1,0 +1,8 @@
+.vscode/
+.vs/
+*.exe
+*.o
+*.out
+*.I
+*.d
+test_allocator
